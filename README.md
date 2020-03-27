@@ -20,3 +20,5 @@ Blackjack Project
 * Draw new card if the sum of card is under 16
 * Compare sum cards of the player and the dealer
 * Display who is the winner
+
+#whatever I want
