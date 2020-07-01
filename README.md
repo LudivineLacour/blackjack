@@ -1,15 +1,4 @@
-# Blackjack
-*[Ludivine L. & Mike W.]*
-
-*[Data Analytics, Paris, March 2020]*
-
-## Content
-- [Project Description](#project-description)
-- [Rules](#rules)
-- [Workflow](#workflow)
-- [Organization](#organization)
-
-## Project Description
+## Blackjack project
 Build the blackjack game using python programmation.
 
 ## Rules
@@ -45,4 +34,4 @@ Other functions to:
 * display results
 
 ## Organization
-We worked on jupiter notebook.
+Exploration was done on jupiter notebook for easiest iteration of code. Then functions were put on a python script to be executable. 
