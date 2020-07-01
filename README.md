@@ -34,4 +34,4 @@ Other functions to:
 * display results
 
 ## Organization
-Exploration was done on jupiter notebook for easiest iteration of code. Then functions were put on a python script to be executable. 
+Exploration was done on jupiter notebook for easier iteration of code. Then functions were put on a python script to be executable. 
